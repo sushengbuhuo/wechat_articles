@@ -1,3 +1,11 @@
+[2021-01-27_我在 GitHub 被 Diss。。。](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247490259&amp;idx=1&amp;sn=a26eb066d18a145059bc2a6e7eecfc1e&amp;chksm=fc8ba242cbfc2b548d301bbfcef6eb63e0fd41d3cb0e25410a6b2e9be0e8867967f93430e4ee&amp;scene=27#wechat_redirect)
+
+文章简介:
+
+[2021-01-26_刚刚，我在知乎认真的回答了这个问题](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247490252&amp;idx=1&amp;sn=233501aeef965d59ade3295e891e7692&amp;chksm=fc8ba25dcbfc2b4b5eb12abf5e362ef9d773bd0f63c8ca5b1d08472ebaf7d8577f6f04ef5200&amp;scene=27#wechat_redirect)
+
+文章简介:今天在知乎上看到了这么一个问题：怎么自学Python，大概要多久？一时兴起，就给回答了一波，之前我在知乎回答
+
 [2021-01-22_那些亲手把自己的「学习机会」让人抹杀掉的可怜人们](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247490246&amp;idx=1&amp;sn=5a77c0839284bb5b3917b3f7c7dd728c&amp;chksm=fc8ba257cbfc2b4104212963a9e4936e4ad50747c26daaf526b46f2455d2c17eeeff8ad650ad&amp;scene=27#wechat_redirect)
 
 文章简介:我之前说过，现在很多人在工作或者学习过程中，一遇到问题就是在微信中直接发起询问，可能看起来很高效，但在我看来
