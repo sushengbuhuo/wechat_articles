@@ -3,5 +3,9 @@
 想更方便看使用chm软件打开， 左侧是文件，右侧是内容。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-a9d6b603f5d9093c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![](https://visitor-badge.glitch.me/badge?page_id=sushengbuhuo)
+
+![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/sushengbuhuo)
+
 ### 公众号苏生不惑
 ![扫描二维码关注或搜索微信susheng_buhuo](https://upload-images.jianshu.io/upload_images/23152173-61c280d775baf3e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
